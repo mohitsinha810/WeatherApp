@@ -1,0 +1,40 @@
+i{
+	font-size:10vw;
+}
+body{
+	text-align:center;
+	
+}
+#header,h1{
+	background-color:;
+	font-size:6vw;
+	color:rgb(30,211,189);
+}
+input{
+	border:1px solid grey;
+	padding-left:1vw;
+	boxs-shadow: 0px 0px 12px #EFEFEF;
+	width:25%;
+	height:250%;
+}
+button,input{
+	height:3vw;
+}
+p{
+	font-size:150%;
+	margin:2vw;
+}
+img{
+	height:10vw;
+	width:auto;
+}
+#temperature,#temperature1,#name{
+	font-weight:bold;
+	font-size:3vw;
+}
+#weatherDescription,#weatherDescription1{
+	font-size:3.5vw
+}
+#header{
+	padding:2vw;
+}
